@@ -1,0 +1,30 @@
+.submit-better-jobs-wrap {
+    background: #6DE754;
+    background-blend-mode: color;
+    padding: 0px 40px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.submit-better-jobs-wrap h2 {
+    font-size: 125px;
+}
+
+.submit-title {
+    padding-top: 56px;
+    font-size: 48px;
+    width: 420px;
+    margin: auto;
+}
+
+.submit-details {
+    width: 474px;
+    margin: auto;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+    margin-bottom: 12px;
+}
+
+.submit-better-jobs-wrap img {
+    border-radius: 25px 25px 0px 0px;
+}
