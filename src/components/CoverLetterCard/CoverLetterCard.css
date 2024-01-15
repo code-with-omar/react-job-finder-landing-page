@@ -1,0 +1,13 @@
+.cover-letter-wrap {
+    padding: 100px;
+}
+
+.cover-letter-top {
+    text-align: center;
+    width: 420px;
+    margin: auto;
+}
+
+.cover-letter-top h2 {
+    font-size: 48px;
+}

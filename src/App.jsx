@@ -1,3 +1,4 @@
+import CoverLetter from "./components/CoverLetter/CoverLetter"
 import Header from "./components/Header/Header"
 import Hero from "./components/Hero/Hero"
 import SubmitBetterJobs from "./components/SubmitBetterJobs/SubmitBetterJobs"
@@ -12,6 +13,7 @@ function App() {
       <Header></Header>
       <Hero></Hero>
       <SubmitBetterJobs></SubmitBetterJobs>
+      <CoverLetter></CoverLetter>
     </>
   )
 }
