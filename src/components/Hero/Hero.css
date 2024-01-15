@@ -1,0 +1,56 @@
+.hero-wrap {
+    padding: 80px 80px;
+}
+
+.hero-title h2 {
+    font-size: 88px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.hero-details {
+    width: 474px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.hero-form {
+    width: 567px;
+    padding: 8px 0px 8px 16px;
+    align-items: center;
+    border-radius: 16px;
+    border: 1px solid #909090;
+    margin: 0 auto;
+    background: #161815;
+    justify-content: space-between;
+}
+
+.email input {
+    border: none;
+    color: #909090;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: SF Pro Text;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    background: #161815;
+    outline: none;
+    margin-left: 20px;
+}
+
+.btn-submit {
+    margin-right: 20px;
+}
+
+.hero-cards {
+    margin-top: 56px;
+    box-sizing: border-box;
+}
+
+.hero-card {
+    border-radius: 12px;
+    background: #1E201D;
+    padding: 24px;
+}

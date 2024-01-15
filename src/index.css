@@ -116,4 +116,9 @@ body {
     background: var(--white);
 }
 
-/* button */
+/* card img */
+.card-image{
+   font-size: 24px;
+   margin-top: 16px;
+   margin-bottom: 16px;
+}
