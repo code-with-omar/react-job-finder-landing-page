@@ -1,0 +1,33 @@
+.part-top-wrap {}
+
+.part-top-card {
+    border: none;
+}
+
+.part-top-title {
+    font-size: 46px;
+    margin-top: 40px;
+    margin-bottom: 24px;
+    
+}
+
+.part-top-details {
+    line-height: 22px;
+    letter-spacing: 0.32px;
+}
+
+.btn-cover-generator {
+    border-radius: 12px;
+    padding: 12px 20px;
+    border-radius: 12px;
+    border: 1px solid #161815;
+}
+
+.btn-cover-generator:hover {
+    border-radius: 12px;
+    padding: 12px 20px;
+    border-radius: 12px;
+    border: 1px solid #161815;
+    background: var(--green-01);
+    color:var(--dark-00);
+}
