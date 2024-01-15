@@ -1,0 +1,29 @@
+.header {
+    margin-top: 40px;
+    margin-bottom: 16px;
+}
+.header a:hover{
+    color: #fff;
+    cursor: pointer;
+    cli
+}
+.btn-signIn {
+    border-radius: 12px;
+    border: 1px solid #6DE754;
+    padding: 12px 20px;
+}
+
+.btn-signIn:hover {
+    background: black;
+}
+
+.btn-getStarted,
+.btn-getStarted:hover {
+    padding: 12px 20px;
+    border-radius: 12px;
+    border: 1px solid #6DE754;
+
+    background: #6DE754;
+    color: #909090;
+    ;
+}

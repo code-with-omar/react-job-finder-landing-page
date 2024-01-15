@@ -1,0 +1,119 @@
+/* google font  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --dark-00: #000;
+    --dark-01: #909090;
+    --dark-02: #1F392C;
+    --dark-03: #161815;
+    --dark-04: #263238;
+    --green-01: #6DE754;
+    --white: #FFF;
+
+}
+
+html,
+body {
+    font-family: 'Poppins', sans-serif;
+    background: var(--dark-00);
+}
+
+/* font size  */
+.fs-16 {
+    font-size: 16px;
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+/* font weight */
+.fw-400 {
+    font-weight: 400;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.fw-600 {
+    font-weight: 600;
+}
+
+.fw-700 {
+    font-weight: 700;
+}
+
+.fw-800 {
+    font-weight: 800;
+}
+
+/* font color  */
+.dark-00 {
+    color: var(--dark-00);
+}
+
+.dark-01 {
+    color: var(--dark-01);
+}
+
+.dark-02 {
+    color: var(--dark-02);
+}
+
+.dark-03 {
+    color: var(--dark-03);
+}
+
+.dark-04 {
+    color: var(--dark-04);
+}
+
+.green-01 {
+    color: var(--green-01);
+}
+
+.white {
+    color: var(--white);
+}
+
+/* Background color  */
+.bg-dark-00 {
+    background: var(--dark-00);
+}
+
+.bg-dark-01 {
+    background: var(--dark-01);
+}
+
+.bg-dark-02 {
+    background: var(--dark-02);
+}
+
+.bg-dark-03 {
+    background: var(--dark-03);
+}
+
+.bg-dark-04 {
+    background: var(--dark-04);
+}
+
+.bg-green-01 {
+    background: var(--green-01);
+}
+
+.bg-white {
+    background: var(--white);
+}
+
+/* button */
