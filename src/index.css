@@ -123,3 +123,8 @@ body {
     margin-bottom: 16px;
     
 }
+/* anchor tag  */
+a{
+    padding:0;
+    margin: 0;
+}

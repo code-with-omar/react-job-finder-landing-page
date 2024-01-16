@@ -1,0 +1,17 @@
+.footer-middle-wrap{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.footer-middle-wrap a{
+    padding: 0;
+    margin: 0;
+}
+.footer-middle-wrap a:hover{
+    color: black;
+}
+.footer-middle-body{
+    border: none;
+}
+.footer-middle-title{
+    line-height: 24px; 
+}
