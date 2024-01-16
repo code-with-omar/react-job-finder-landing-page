@@ -1,0 +1,20 @@
+.footer-buttom-wrap {
+    padding: 40px;
+    margin: auto;
+    text-align: center;
+}
+
+.footer-buttom-wrap span {
+    color: #1F392C;
+    line-height: 22px;
+}
+.footer-buttom-wrap span::after{
+    content: "";
+    border-left: 1px solid #1F392C;
+    margin-left: 20px
+}
+.footer-buttom-wrap span:last-child::after{
+    content: "";
+    border-left: 0;
+    margin-left: 0;
+}

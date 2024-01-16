@@ -3,7 +3,7 @@ import "./FooterMiddle.css"
 
 const FooterMiddle = () => {
     return (
-        <Row xs={1} md={2} lg={4} className="g-4 footer-middle-wrap">
+        <Row xs={1} md={2} lg={4} className="g-5 footer-middle-wrap">
             <Col>
                 <Card className="footer-middle-body bg-green-01">
                     <Card.Body >

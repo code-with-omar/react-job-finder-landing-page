@@ -1,12 +1,16 @@
-.footer-wrap{
+.footer-wrap {
     padding: 50px;
 }
-.footer-top{
 
-}
-.footer-middle{
+.footer-top {}
 
-}
-.footer-buttom{
-    
+.footer-middle {}
+
+.footer-buttom::before {
+    content: "";
+    display: block;
+    width: 1192px;
+    height: 1px;
+    background: #161815;
+    margin: auto;
 }
