@@ -1,0 +1,35 @@
+.resume-wrapper {
+    padding: 50px 100px;
+    margin: auto;
+}
+
+.resume-left-cards {
+    background: black;
+    padding: 40px 0px;
+}
+
+.resume-left-card {
+    background: black;
+}
+
+.resume-left-card-title {
+    font-size: 48px;
+
+}
+
+.resume-btn {
+    padding: 12px 20px;
+    border-radius: 12px;
+    border: 1px solid #161815;
+    background: black;
+    color: white;
+    border: 1px solid #6DE754;
+    margin-top: 26px;
+}
+
+.resume-btn:hover {
+    background: black;
+    color: white;
+    border: 1px solid #6DE754;
+    
+}
